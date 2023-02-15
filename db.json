@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "username": "sonnx",
+      "fullName": "nguyễn xuân sơn",
+      "gender": "male",
+      "password": "14102021",
+      "confirmPassWord": "14102021",
+      "email": "son@gmail.com",
+      "place": "hà nội",
+      "id": 2
+    }
+  ]
+}
