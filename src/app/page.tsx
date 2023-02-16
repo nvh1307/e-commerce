@@ -17,10 +17,11 @@ export default function Home() {
 
   const fetchData = async () => {
     const data = await fetch(`https://api.themoviedb.org/3/movie/popular?api_key=4dd202d895b0152921e982ed4e8a06e1&language=en-US&page=1`);
+    
     const res = await data.json();
     setData(res?.results);
   }
-  console.log("data",data);
+  // console.log("data",data);
   
   return (
     <div className=''>
