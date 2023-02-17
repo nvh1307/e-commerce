@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    },
-    {
       "username": "sonnx",
       "fullName": "nguyễn xuân sơn",
       "gender": "male",
